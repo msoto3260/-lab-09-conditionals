@@ -1,1 +1,1 @@
-# -lab-09-conditionals
+"This is lab 8. It's about Javascript Basics.
